@@ -1,7 +1,5 @@
 /** @type {import('next').NextConfig} */
 
-const isProd = process.env.NODE_ENV === "production";
-
 const nextConfig = {
   output: "export",
 
@@ -9,8 +7,7 @@ const nextConfig = {
     unoptimized: true,
   },
 
-  basePath: isProd ? "/heritage-pangasinan" : "",
-  assetPrefix: isProd ? "/heritage-pangasinan/" : "",
+  basePath: "/heritage-pangasinan",
 };
 
 export default nextConfig;
