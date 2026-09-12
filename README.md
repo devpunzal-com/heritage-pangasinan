@@ -2,7 +2,7 @@
 
 ## Student Name
 
-Jingle Grace Garcia
+Jomar John Punzal
 
 ## Selected Framework
 
@@ -18,4 +18,4 @@ Static Site Generation for improved performance and deployment.
 
 ## Live Website
 
-https://YOUR-USERNAME.github.io/pangasinan-heritage/
+https://devpunzal-com.github.io/pangasinan-heritage/
